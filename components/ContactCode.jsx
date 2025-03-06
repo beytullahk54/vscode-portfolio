@@ -30,8 +30,8 @@ const contactItems = [
     social: 'instagram',
     link: 'beytullahk54',
     href: 'https://www.instagram.com/beytullahk54',
-  },
-  /*{
+  }/*,
+  {
     social: 'polywork',
     link: 'nitinranganath',
     href: 'https://www.polywork.com/nitinranganath',
