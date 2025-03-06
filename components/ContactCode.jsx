@@ -3,23 +3,23 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    link: 'kodlooper.com',
+    href: 'https://kodlooper.com',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'kodlooper@gmail.com',
+    href: 'mailto:kodlooper@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'beytullahk54',
+    href: 'https://github.com/beytullahk54',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'beytullahk54',
+    href: 'https://www.linkedin.com/in/beytullahk54/',
   },
   {
     social: 'twitter',
@@ -28,10 +28,10 @@ const contactItems = [
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
+    link: 'beytullahk54',
+    href: 'https://www.instagram.com/beytullahk54',
   },
-  {
+  /*{
     social: 'polywork',
     link: 'nitinranganath',
     href: 'https://www.polywork.com/nitinranganath',
@@ -50,7 +50,7 @@ const contactItems = [
     social: 'codesandbox',
     link: 'itsnitinr',
     href: 'https://codesandbox.io/u/itsnitinr',
-  },
+  },*/
 ];
 
 const ContactCode = () => {
